@@ -33,7 +33,7 @@ The CLI will prompt you to give your project a name. The code will be downloaded
 To manually set up the project, first download it with Git:
 
 ```bash
-git clone https://github.com/bassjobsen/empty-bootstrap-project-gulp projectname
+git clone https://github.com/bobandevelop/empty-bootstrap-project-gulp projectname
 ```
 
 Then open the folder in your command line, and install the needed dependencies:
